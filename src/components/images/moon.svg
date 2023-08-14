@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <filter id="rt355wh9pa">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".161" result="color"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+            <feComposite operator="in" in="color"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-type="innerShadowGroup">
+        <path data-name="9035939_moon_sharp_icon" d="M37.385 36.231A10.727 10.727 0 0 1 38.154 32 10.465 10.465 0 1 0 52 45.846a10.731 10.731 0 0 1-4.231.769 10.384 10.384 0 0 1-10.384-10.384z" transform="translate(-32 -32)" style="fill:#90a3a7"/>
+        <g style="filter:url(#rt355wh9pa)">
+            <path data-name="9035939_moon_sharp_icon" d="M37.385 36.231A10.727 10.727 0 0 1 38.154 32 10.465 10.465 0 1 0 52 45.846a10.731 10.731 0 0 1-4.231.769 10.384 10.384 0 0 1-10.384-10.384z" transform="translate(-32 -32)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

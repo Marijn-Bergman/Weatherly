@@ -1,0 +1,32 @@
+<svg data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="23" height="20" viewBox="0 0 23 20">
+    <defs>
+        <filter id="cu4q4h4iba">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".161" result="color"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+            <feComposite operator="in" in="color"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="qzldsjdu0b">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur-2"/>
+            <feFlood flood-opacity=".161" result="color-2"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+            <feComposite operator="in" in="color-2"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-type="innerShadowGroup">
+        <path data-name="Path 27" d="M13.386 5C5.95 5 2.289 13.986 2.141 14.357L1.88 15l.25.643C2.289 16.014 5.95 25 13.386 25s11.1-8.986 11.244-9.357l.25-.643-.25-.643C24.482 13.986 20.821 5 13.386 5zm0 17.143c-4.98 0-7.958-5.286-8.925-7.143.966-1.857 3.945-7.143 8.925-7.143s7.958 5.286 8.925 7.143c-.967 1.857-3.946 7.143-8.925 7.143z" transform="translate(-1.88 -5)" style="fill:#90a3a7"/>
+        <g style="filter:url(#cu4q4h4iba)">
+            <path data-name="Path 27" d="M13.386 5C5.95 5 2.289 13.986 2.141 14.357L1.88 15l.25.643C2.289 16.014 5.95 25 13.386 25s11.1-8.986 11.244-9.357l.25-.643-.25-.643C24.482 13.986 20.821 5 13.386 5zm0 17.143c-4.98 0-7.958-5.286-8.925-7.143.966-1.857 3.945-7.143 8.925-7.143s7.958 5.286 8.925 7.143c-.967 1.857-3.946 7.143-8.925 7.143z" transform="translate(-1.88 -5)" style="fill:#fff"/>
+        </g>
+    </g>
+    <g data-type="innerShadowGroup">
+        <path data-name="Path 28" d="M11.714 8C9.663 8 8 10.558 8 13.714s1.663 5.714 3.714 5.714 3.714-2.558 3.714-5.714S13.766 8 11.714 8zm0 8.571c-1.026 0-1.857-1.279-1.857-2.857s.831-2.857 1.857-2.857 1.857 1.279 1.857 2.857-.831 2.857-1.857 2.857z" transform="translate(-.208 -3.714)" style="fill:#90a3a7"/>
+        <g style="filter:url(#qzldsjdu0b)">
+            <path data-name="Path 28" d="M11.714 8C9.663 8 8 10.558 8 13.714s1.663 5.714 3.714 5.714 3.714-2.558 3.714-5.714S13.766 8 11.714 8zm0 8.571c-1.026 0-1.857-1.279-1.857-2.857s.831-2.857 1.857-2.857 1.857 1.279 1.857 2.857-.831 2.857-1.857 2.857z" transform="translate(-.21 -3.71)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

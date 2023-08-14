@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.066" height="20" viewBox="0 0 21.066 20">
+    <defs>
+        <filter id="ltqpmmrc8a">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".161" result="color"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+            <feComposite operator="in" in="color"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="2anzdeoi3b">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur-2"/>
+            <feFlood flood-opacity=".161" result="color-2"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+            <feComposite operator="in" in="color-2"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="fzdk8nl3fc">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur-3"/>
+            <feFlood flood-opacity=".161" result="color-3"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+            <feComposite operator="in" in="color-3"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="v210lnfpvd">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur-4"/>
+            <feFlood flood-opacity=".161" result="color-4"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+            <feComposite operator="in" in="color-4"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="a325of9hre">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur-5"/>
+            <feFlood flood-opacity=".161" result="color-5"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-5"/>
+            <feComposite operator="in" in="color-5"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="j3plgw0fof">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur-6"/>
+            <feFlood flood-opacity=".161" result="color-6"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-6"/>
+            <feComposite operator="in" in="color-6"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-type="innerShadowGroup">
+        <path data-name="shape-9" d="M27.558 14.921a3.544 3.544 0 0 1 1.391 1.34 3.679 3.679 0 0 1 .506 2 4.184 4.184 0 0 1-.506 2 3.544 3.544 0 0 1-1.391 1.34 4.461 4.461 0 0 1-2.048.506H12.337a4.167 4.167 0 0 1-2.048-.506A3.544 3.544 0 0 1 8.9 20.255a3.679 3.679 0 0 1-.506-2 4.184 4.184 0 0 1 .506-2 3.544 3.544 0 0 1 1.391-1.34 4.034 4.034 0 0 1 .582-.253 4.134 4.134 0 0 1-.051-.556 3.858 3.858 0 0 1 3.944-3.818 4 4 0 0 1 2.882 1.214A5.274 5.274 0 0 1 22.5 8.4a5.174 5.174 0 0 1 5.26 5.1 5.472 5.472 0 0 1-.2 1.416z" transform="translate(-8.391 -8.397)" style="fill:#90a3a7"/>
+        <g style="filter:url(#ltqpmmrc8a)">
+            <path data-name="shape-9" d="M27.558 14.921a3.544 3.544 0 0 1 1.391 1.34 3.679 3.679 0 0 1 .506 2 4.184 4.184 0 0 1-.506 2 3.544 3.544 0 0 1-1.391 1.34 4.461 4.461 0 0 1-2.048.506H12.337a4.167 4.167 0 0 1-2.048-.506A3.544 3.544 0 0 1 8.9 20.255a3.679 3.679 0 0 1-.506-2 4.184 4.184 0 0 1 .506-2 3.544 3.544 0 0 1 1.391-1.34 4.034 4.034 0 0 1 .582-.253 4.134 4.134 0 0 1-.051-.556 3.858 3.858 0 0 1 3.944-3.818 4 4 0 0 1 2.882 1.214A5.274 5.274 0 0 1 22.5 8.4a5.174 5.174 0 0 1 5.26 5.1 5.472 5.472 0 0 1-.2 1.416z" transform="translate(-8.39 -8.4)" style="fill:#fff"/>
+        </g>
+    </g>
+    <g data-type="innerShadowGroup">
+        <path data-name="shape-10" d="M21.862 77.1a1.062 1.062 0 1 1-1.062 1.062 1.068 1.068 0 0 1 1.062-1.062z" transform="translate(-17.662 -59.729)" style="fill:#90a3a7"/>
+        <g style="filter:url(#2anzdeoi3b)">
+            <path data-name="shape-10" d="M21.862 77.1a1.062 1.062 0 1 1-1.062 1.062 1.068 1.068 0 0 1 1.062-1.062z" transform="translate(-17.66 -59.73)" style="fill:#fff"/>
+        </g>
+    </g>
+    <g data-type="innerShadowGroup">
+        <path data-name="shape-11" d="M46.862 68.8a1.062 1.062 0 1 1-1.062 1.062 1.068 1.068 0 0 1 1.062-1.062z" transform="translate(-36.342 -53.528)" style="fill:#90a3a7"/>
+        <g style="filter:url(#fzdk8nl3fc)">
+            <path data-name="shape-11" d="M46.862 68.8a1.062 1.062 0 1 1-1.062 1.062 1.068 1.068 0 0 1 1.062-1.062z" transform="translate(-36.34 -53.53)" style="fill:#fff"/>
+        </g>
+    </g>
+    <g data-type="innerShadowGroup">
+        <path data-name="shape-12" d="M33.831 68.8a.531.531 0 1 1-.531.531.534.534 0 0 1 .531-.531z" transform="translate(-27.002 -53.528)" style="fill:#90a3a7"/>
+        <g style="filter:url(#v210lnfpvd)">
+            <path data-name="shape-12" d="M33.831 68.8a.531.531 0 1 1-.531.531.534.534 0 0 1 .531-.531z" transform="translate(-27 -53.53)" style="fill:#fff"/>
+        </g>
+    </g>
+    <g data-type="innerShadowGroup">
+        <path data-name="shape-13" d="M71.862 70.8a1.062 1.062 0 1 1-1.062 1.062 1.068 1.068 0 0 1 1.062-1.062z" transform="translate(-55.021 -55.022)" style="fill:#90a3a7"/>
+        <g style="filter:url(#a325of9hre)">
+            <path data-name="shape-13" d="M71.862 70.8a1.062 1.062 0 1 1-1.062 1.062 1.068 1.068 0 0 1 1.062-1.062z" transform="translate(-55.02 -55.02)" style="fill:#fff"/>
+        </g>
+    </g>
+    <g data-type="innerShadowGroup">
+        <path data-name="shape-14" d="M58.831 83.3a.531.531 0 1 1-.531.531.552.552 0 0 1 .531-.531z" transform="translate(-45.681 -64.362)" style="fill:#90a3a7"/>
+        <g style="filter:url(#j3plgw0fof)">
+            <path data-name="shape-14" d="M58.831 83.3a.531.531 0 1 1-.531.531.552.552 0 0 1 .531-.531z" transform="translate(-45.68 -64.36)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

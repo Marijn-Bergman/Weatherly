@@ -1,0 +1,18 @@
+<svg data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="15.748" height="20" viewBox="0 0 15.748 20">
+    <defs>
+        <filter id="f2fvs2p1oa">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".161" result="color"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+            <feComposite operator="in" in="color"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-type="innerShadowGroup">
+        <path data-name="Path 26" d="m12.514 2.231-.64-.551-.64.551C10.89 2.487 4 8.491 4 13.806a7.874 7.874 0 0 0 15.748 0c0-5.315-6.89-11.319-7.234-11.575zm1.555 15.974-.876-1.762a2.953 2.953 0 0 0 1.634-2.638H16.8a4.921 4.921 0 0 1-2.726 4.4z" transform="translate(-4 -1.68)" style="fill:#90a3a7"/>
+        <g style="filter:url(#f2fvs2p1oa)">
+            <path data-name="Path 26" d="m12.514 2.231-.64-.551-.64.551C10.89 2.487 4 8.491 4 13.806a7.874 7.874 0 0 0 15.748 0c0-5.315-6.89-11.319-7.234-11.575zm1.555 15.974-.876-1.762a2.953 2.953 0 0 0 1.634-2.638H16.8a4.921 4.921 0 0 1-2.726 4.4z" transform="translate(-4 -1.68)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

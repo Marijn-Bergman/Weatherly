@@ -1,0 +1,19 @@
+<svg data-name="3669253_ic_search_icon" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <filter id="rcmd8meola">
+            <feOffset dx="1" dy="1"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".161" result="color"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+            <feComposite operator="in" in="color"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-type="innerShadowGroup">
+        <path data-name="Path 19" d="M31 28h-1.59l-.55-.55a12.907 12.907 0 1 0-1.41 1.42l.55.55V31l10 9.98L40.98 38zm-12 0a9 9 0 1 1 9-9 9 9 0 0 1-9 9z" style="fill:#90a3a7"/>
+        <g style="filter:url(#rcmd8meola)">
+            <path data-name="Path 19" d="M31 28h-1.59l-.55-.55a12.907 12.907 0 1 0-1.41 1.42l.55.55V31l10 9.98L40.98 38zm-12 0a9 9 0 1 1 9-9 9 9 0 0 1-9 9z" style="fill:#fff"/>
+        </g>
+    </g>
+    <path data-name="Path 20" d="M0 0h48v48H0z" style="fill:none"/>
+</svg>
